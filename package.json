@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "scripts": {
+    "devNodemon": "nodemon ./SRC/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "desafio3",
+  "version": "1.0.0",
+  "main": "./SRC/app.js",
+  "author": "Juan Pablo Lezama",
+  "license": "ISC",
+  "description": "Desafío 3 - Curso BackEnd - CoderHouse",
+  "repository": {
+    "type": "git",
+    "url": "github.com/juanlezama1/Desafio3_CS"
+  }
+}

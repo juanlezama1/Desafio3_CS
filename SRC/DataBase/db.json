@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Semillas de girasol - Pipas",
+        "description": "Tostadas y saladas",
+        "price": 1000,
+        "thumbnail": "pipas.jpg",
+        "id": "aba02a84c8a9c32a375950671f712e",
+        "stock": 70,
+        "code": "P111"
+    },
+    {
+        "title": "Gelatina Royal",
+        "description": "Sabor a Durazno",
+        "price": 400,
+        "thumbnail": "gelatina.jpg",
+        "id": "7bee7972a327db403f8498b222edb4",
+        "stock": 11,
+        "code": "G102"
+    },
+    {
+        "title": "Spaghetti Matarazzo",
+        "description": "Moldeado al bronce",
+        "price": 1300,
+        "thumbnail": "fideos.jpg",
+        "id": "6cd86b605c81b83bd28befbe2bc9d6",
+        "stock": 6,
+        "code": "F782"
+    },
+    {
+        "title": "Azúcar",
+        "description": "Común tipo A",
+        "price": 800,
+        "thumbnail": "azucar.jpg",
+        "id": "73d7e41142a96dfe63c7702b586526",
+        "stock": 45,
+        "code": "A556"
+    },
+    {
+        "title": "Vinagre",
+        "description": "De alcohol",
+        "price": 700,
+        "thumbnail": "vinagre.jpg",
+        "id": "b87ca2395049f0122efa3f6bde32e0",
+        "stock": 18,
+        "code": "V118"
+    },
+    {
+        "title": "Frutos Secos",
+        "description": "Sin maní",
+        "price": 1800,
+        "thumbnail": "frutos.jpg",
+        "id": "7c33b491c9487ced8fffe31bb71fa7",
+        "stock": 50,
+        "code": "F852"
+    },
+    {
+        "title": "Sal de mesa",
+        "description": "Libre de gluten",
+        "price": 450,
+        "thumbnail": "sal.jpg",
+        "id": "4a0418e375464b4afc366dd30021ed",
+        "stock": 25,
+        "code": "S147"
+    },
+    {
+        "title": "Aceite de oliva",
+        "description": "Extra virgen",
+        "price": 800,
+        "thumbnail": "aceite.jpg",
+        "id": "61d94848b60cfdcd8c32aee1ceac3a",
+        "stock": 17,
+        "code": "A855"
+    },
+    {
+        "title": "Pechuga de pollo",
+        "description": "Sin hueso y sin piel",
+        "price": 2500,
+        "thumbnail": "pollo.jpg",
+        "id": "062e3c87418ede3bc8f8fab2f5cc62",
+        "stock": 60,
+        "code": "P363"
+    },
+    {
+        "title": "Coca Cola - 500 ml",
+        "description": "Zero, sin azúcar",
+        "price": 900,
+        "thumbnail": "coca.jpg",
+        "id": "8a30d2f70289ac6cd84fe60ec2ec3f",
+        "stock": 45,
+        "code": "C256"
+    }
+]
